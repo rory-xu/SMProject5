@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMProject5</string>
+    <string name="your_cart">Your Cart</string>
+    <string name="store_orders">Store Orders</string>
+    <string name="order_coffees">Order Coffees</string>
+    <string name="order_donuts">Order Donuts</string>
+</resources>
